@@ -11,3 +11,5 @@ frontend/build/
 .idea/
 *.iml
 .vscode/
+
+backend/src/main/resources/application.properties
