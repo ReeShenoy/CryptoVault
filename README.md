@@ -40,8 +40,8 @@ Open `backend/src/main/resources/application.properties` and set your own MySQL
 username/password if they differ from the defaults:
 
 ```properties
-spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.username=your_username
+spring.datasource.password=your_password
 ```
 
 Hibernate is set to `ddl-auto=update`, so the `crypto_operations` table is created
